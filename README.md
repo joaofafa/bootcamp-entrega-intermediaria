@@ -22,3 +22,6 @@ ViaCEP
 - Integração com API pública ViaCEP
 - Teste de integração automatizado
 - Deploy online da aplicação
+
+## Status
+Projeto finalizado ✅
