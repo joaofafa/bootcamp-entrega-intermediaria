@@ -1,0 +1,27 @@
+{
+  "name": "bootcamp-entrega-intermediaria",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinizzdavi/bootcamp-entrega-intermediaria.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dinizzdavi/bootcamp-entrega-intermediaria/issues"
+  },
+  "homepage": "https://github.com/dinizzdavi/bootcamp-entrega-intermediaria#readme",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  },
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}
